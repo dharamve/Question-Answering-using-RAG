@@ -1,0 +1,21 @@
+                 PDF
+                  ↓
+            Extract Text
+                  ↓
+            Split into Chunks
+                  ↓
+          Create Embeddings
+                  ↓
+             ChromaDB
+                  ↓
+           User Question
+                  ↓
+         Question Embedding
+                  ↓
+        Similarity Search
+                  ↓
+        Relevant PDF Chunks
+                  ↓
+           Google Gemini
+                  ↓
+              Answer
