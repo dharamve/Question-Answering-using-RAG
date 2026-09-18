@@ -1,0 +1,20 @@
+Basic-RAG-PDF-Chatbot/
+│
+├── data/
+│   └── sample.pdf
+│
+├── chroma_db/
+│
+├── src/
+│   ├── load_document.py
+│   ├── chunk_text.py
+│   ├── embeddings.py
+│   ├── retriever.py
+│   ├── generator.py
+│   └── main.py
+│
+├── .env
+├── .env.example
+├── .gitignore
+├── requirements.txt
+└── README.md
